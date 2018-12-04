@@ -1,2 +1,2 @@
 
-![Screenshot](screenshots/img1.png)
+![Screenshot](screenshots/img1.png | width=100)
